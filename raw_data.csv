@@ -1,0 +1,8 @@
+name,price,date,category
+  Apple ,RM 1,299.00,10/10/26,Fruit
+Banana,RM 5.50,11/10/26,Fruit
+  Apple ,RM 1,299.00,10/10/26,Fruit
+Orange,,12/10/26,Fruit
+  apple ,RM 1,299.00,10/10/26,Fruit
+Milk,RM 8.90,,Dairy
+Bread,RM 3.50,13/10/26,Bakery
